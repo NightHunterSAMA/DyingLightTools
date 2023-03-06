@@ -11,7 +11,7 @@
 ### 最新文件和更新内容请查看我的哔哩哔哩和QQ群!  
 - QQ群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=BpfyN-SElZrQAvb1otAsCrD7SuFzLsx_&jump_from=webapi&authKey=iP5TTIqZTmRzFVVb2D4U6vvuFdwgyxsEV348yec9SHYdL5Ad0NRPWNdjtQa2r6UW"><QQ群：暗夜的猎手巢穴></a>  
 - 哔哩哔哩：https://space.bilibili.com/168162766
-
+- GitHub更新：https://github.com/NightHunterSAMA/DyingLightTools/commits/DLT_Update  
 -----
 
 ## 使用教程  
