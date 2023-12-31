@@ -7,5 +7,5 @@
  哔哩哔哩：https://space.bilibili.com/168162766
 
 ##  Editor by NightSAMA 2023/12/31
-- Dev账号哔哩哔哩：猎手妹妹  https://space.bilibili.com/168162766
-- Dev账号哔哩哔哩：鱼儿er儿  https://space.bilibili.com/288624638
+- Dev猎手妹妹  https://space.bilibili.com/168162766
+- Dev鱼儿er儿  https://space.bilibili.com/288624638
